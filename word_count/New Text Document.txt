@@ -1,0 +1,8 @@
+﻿Hello world! This is a test file for demonstrating Hadoop MapReduce functionality.
+The purpose of this file is to provide sample text for the word count example.
+You can use this file to test the MapReduce job and see how many words are in this file.
+Hadoop MapReduce is a programming model for processing large datasets with a distributed algorithm.
+It allows for parallel processing of data across many machines.
+In this file, you will find various words and sentences to count.
+Feel free to modify or add more text to this file as needed.
+Enjoy working with Hadoop!

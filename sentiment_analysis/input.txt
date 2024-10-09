@@ -1,0 +1,15 @@
+1, I am so happy with the service.
+2, This is a bad day.
+3, Feeling good and excited.
+4, I love this product! It's fantastic.
+5, I am not happy with the service.
+6, The experience was okay, nothing special.
+7, The food here is absolutely amazing!  
+8, I am extremely disappointed with the outcome.  
+9, Had a fantastic time today, feeling great!  
+10, This is not what I expected, very dissatisfied.  
+11, Such a wonderful experience, highly recommend!  
+12, The product is okay, but it could be better.  
+13, I am so thrilled with the service provided!  
+14, Feeling really down today, things aren't going well.  
+15, The staff was helpful, but the service was slow.
